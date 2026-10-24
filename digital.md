@@ -43,4 +43,3 @@ Theo *Khung năng lực số dành cho sinh viên Việt Nam* — Trường ĐH 
 | **Học** | Tôi đối chiếu các minh chứng thực tế ở Bài 1 (như mục tiêu làm SOC Engineer, dùng Wireshark, Nmap, Kali Linux) với tiêu chuẩn của khung năng lực để điền cho nhất quán. |
 | **Hành** | Tôi tự gõ lại toàn bộ nội dung trong bảng bằng văn phong cá nhân, đảm bảo logic xuyên suốt với bài làm trước đó. |
 
-Công cụ đã dùng: Gemini
