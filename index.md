@@ -8,13 +8,13 @@ title: Hồ sơ nhập ngành
      Điền ở Bài 6. Bốn dòng, không hơn. Xem tờ "Trang chủ chính là CV".
      Sau khi điền, làm phép thử sáu giây với hai bạn cùng lớp.               -->
 
-Sinh viên năm nhất Khoa học máy tính · đang đi về hướng …
+Sinh viên năm nhất Khoa học máy tính (Lớp 26DCSA1) · đang đi về hướng Chuyên viên An toàn thông tin (Cybersecurity / SOC Engineer).
 
-- … việc đã làm số 1, kèm một con số → [career.md](career.md)
-- … việc đã làm số 2, kèm một con số → [roadmap.md](roadmap.md)
-- … việc đã làm số 3, kèm một con số → [ai-audit.md](ai-audit.md)
+- Hoàn thành phân tích năng lực từ 3 tin tuyển dụng thực tế và xây dựng mục tiêu nghề nghiệp → [career.md](career.md)
+- Hoàn thành tự kiểm 7 nhóm năng lực số, cài đặt môi trường Kali Linux và thực hành Lab an toàn thông tin → [digital.md](digital.md)
+- Thiết lập quy trình làm việc minh bạch với AI theo mô hình Hỏi - Hoài - Học - Hành → [ai-log.md](ai-log.md)
 
-…@… · <https://lieutandat-26820100005.github.io>
+lieudat2008@gmail.com · https://lieutandat-26820100005.github.io
 
 <!-- ================= hết phần tóm tắt ================= -->
 
@@ -36,4 +36,4 @@ Ngoài ra: [Nhật ký dùng AI](ai-log.md) — khai báo cho cả học phần.
 
 ---
 
-*Cập nhật lần cuối: … · Liên hệ: lieudat2008@gmail.com*
+*Cập nhật lần cuối: 24/10/2026 · Liên hệ: lieudat2008@gmail.com*
