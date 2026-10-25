@@ -33,6 +33,4 @@ Tôi sẽ viết lại trang **[Bản đồ học tập bốn năm (roadmap.md)]
 
 ## Đoạn tự giới thiệu chín mươi giây
 
-Đường dẫn: [Đã lưu video/audio tự giới thiệu 90s trong thư mục anh/]
-
-Không cần đẹp, không cần phông nền. Chỉ cần giọng tôi nói về thứ tôi đã làm.
+Đường dẫn: (https://drive.google.com/file/d/1HriNgjaq_HlMmZebUVxB5x3ZP9Nw4Y0I/view?usp=sharing)
